@@ -9,7 +9,7 @@ import {NavigationRoutes} from './navigation/Routes';
 import './utils/localization/config';
 
 export default function App() {
-  const [isSignIn, setIsSignIn] = useState<boolean>(true);
+  const [isSignIn] = useState<boolean>(true);
 
   return (
     <Provider store={store}>
