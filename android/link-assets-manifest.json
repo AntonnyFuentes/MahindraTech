@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Montserrat-ExtraLight.ttf",
+      "sha1": "973e0f9191b84838a160ddcc12bdbf415a83c030"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraLightItalic.ttf",
+      "sha1": "b622153ea13f0c5973b9f0d6b94a4d850f71d833"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Italic.ttf",
+      "sha1": "5ecff25ae1c692ad4b1c717eff8970f5e147088a"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "685816f5149c1b62a85088828a43f39fb3269c7b"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "afc034510a5207c8a5fa64e2beada9d8e34b603e"
+    },
+    {
+      "path": "assets/fonts/Montserrat-SemiBoldItalic.ttf",
+      "sha1": "8fbcd14c212d26a665b135f78767220e32386d24"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Bold.ttf",
+      "sha1": "0c5c353563212aeecea51a3d7f9ec0352aeb83b4"
+    },
+    {
+      "path": "assets/fonts/OpenSans-BoldItalic.ttf",
+      "sha1": "adbc96cd0d83021c376a600538677feef8ae4a54"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Italic.ttf",
+      "sha1": "eb6cb5949e1e4ccfb5f21cf842d90c45a06cc6fe"
+    },
+    {
+      "path": "assets/fonts/OpenSans-LightItalic.ttf",
+      "sha1": "1effa8ea85dd6157701948ec0c91757d0c3e4324"
+    },
+    {
+      "path": "assets/fonts/OpenSans-Medium.ttf",
+      "sha1": "a3b791960d521b0f7eb4a8f2c707e26347dcea6a"
+    },
+    {
+      "path": "assets/fonts/OpenSans_Condensed-MediumItalic.ttf",
+      "sha1": "74cb38bca3eeee8058c9f38bc34081c600c197fc"
+    }
+  ]
+}
